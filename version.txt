@@ -1,1 +1,1 @@
-1.0.0|https://github.com/Nayan5outlook/test/releases/download/v1.0/ExpenseTracker.exe
+1.1.0|https://github.com/Nayan5outlook/test/releases/download/1.01/mysetup.exe
