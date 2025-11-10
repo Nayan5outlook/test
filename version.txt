@@ -1,1 +1,1 @@
-1.1.0|https://github.com/Nayan5outlook/test/releases/download/1.01/mysetup.exe
+1.1.0|https://github.com/Nayan5outlook/test/releases/download/1.2/mysetup.exe
