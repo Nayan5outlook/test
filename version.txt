@@ -1,1 +1,1 @@
-1.1.0|https://github.com/Nayan5outlook/test/releases/download/1.2/Your.Application.exe
+1.2.0|https://github.com/Nayan5outlook/test/releases/download/1.2/Your.Application.exe
