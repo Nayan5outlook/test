@@ -1,1 +1,1 @@
-1.0.0|https://github.com/Nayan5outlook/test/releases/download/Expensetracker_V0.01/ExpensesTracker.exe
+1.0.1|https://github.com/Nayan5outlook/test/releases/download/Expensetracker_V0.01/ExpensesTracker.exe
