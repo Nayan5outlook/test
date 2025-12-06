@@ -1,1 +1,1 @@
-1.0.0|https://github.com/Nayan5outlook/test/releases/download/main/main.exe
+1.0.1|https://github.com/Nayan5outlook/test/releases/download/main/main.exe
